@@ -1,0 +1,14 @@
+appname = "telegram-file-share"
+runmode = "dev"
+
+httpport = 8001
+
+# tg bot token
+telegram_bot_token = "your_bot_token"
+
+# 文件服务器地址
+file_server_url = "https://tg.iamxmm.xyz"
+
+
+
+
